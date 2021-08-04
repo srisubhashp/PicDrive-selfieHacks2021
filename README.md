@@ -8,3 +8,8 @@ This is a project which I submitted to SelfieHacks 2021 (An MLH Hackathon) in Au
 - The application is being built React and utilizes Microsoft Azure for authentication and storage. 
 
 Here's is a Figma small scale prototype of the final product : [Figma Prototype](https://www.figma.com/proto/FVFJ8pIR3NIbyHeLEQ4q4M/PicDrive-SelfieHacks2021?node-id=11%3A58&scaling=contain&page-id=0%3A1&starting-point-node-id=8%3A13)
+
+
+Here's a screenshot of a simplified design of the main platform:
+
+![image](https://user-images.githubusercontent.com/55814483/128264711-7bd41ba5-3e46-4ab7-9060-ac4cfb63c46b.png)
