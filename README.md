@@ -9,6 +9,7 @@ This is a project which I submitted to SelfieHacks 2021 (An MLH Hackathon) in Au
 
 Here's is a Figma small scale prototype of the final product : [Figma Prototype](https://www.figma.com/proto/FVFJ8pIR3NIbyHeLEQ4q4M/PicDrive-SelfieHacks2021?node-id=11%3A58&scaling=contain&page-id=0%3A1&starting-point-node-id=8%3A13)
 
+I am currently working on the drag and drop platform.
 
 Here's a screenshot of a simplified design of the main platform:
 
